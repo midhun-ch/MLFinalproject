@@ -10,3 +10,8 @@ Machine Learning algorithms used:
 Logistic Regression (Scikit-learn) Naive Bayes (Scikit-learn) Support Vector Machine (Linear) (Scikit-learn) K-Nearest Neighbours (Scikit-learn) Decision Tree (Scikit-learn) Random Forest (Scikit-learn) XGBoost (Scikit-learn) Artificial Neural Network with 1 Hidden layer (Keras) Accuracy achieved: 95% (Random Forest)
 
 Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
+
+Midhun Kumar, Chintapalli -700739502
+Venkata Suraj, Gamini -700744962
+Pavan Kalyan, Pinniboina -700747583
+Kundana, Yerragonda -700748505
